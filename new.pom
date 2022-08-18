@@ -1,5 +1,0 @@
-<html>
-<body>
-    <h2> hello aws team !!! </h2>
-</body>
-</html>
